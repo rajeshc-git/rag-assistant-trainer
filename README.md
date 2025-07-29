@@ -16,6 +16,8 @@ rag-assistant/
 ├── frontend/
 │ └── frontend.html # Simple chat UI
 
+**Create a folder called uploaded_docs**
+
 ## 🚀 Run Locally
 
 ### Backend

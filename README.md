@@ -12,9 +12,9 @@ A lightweight, local-first RAG chatbot built with FastAPI, Langchain, SentenceTr
 
 rag-assistant/
 ├── backend/
-│ ├── main.py # FastAPI server
+│ ├── backend.py # FastAPI server
 ├── frontend/
-│ └── chat.html # Simple chat UI
+│ └── frontend.html # Simple chat UI
 
 ## 🚀 Run Locally
 

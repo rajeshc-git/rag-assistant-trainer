@@ -10,16 +10,11 @@ A lightweight, local-first RAG chatbot built with FastAPI, Langchain, SentenceTr
 
 ## 🗂️ Project Structure
 
-abi-rag-assistant/
+rag-assistant/
 ├── backend/
 │ ├── main.py # FastAPI server
-│ ├── requirements.txt # Dependencies
 ├── frontend/
 │ └── chat.html # Simple chat UI
-
-shell
-Copy
-Edit
 
 ## 🚀 Run Locally
 

@@ -1,4 +1,4 @@
-#  RAG Assistant 🧠🤖
+# AI RAG Assistant 🧠🤖
 
 A lightweight, local-first RAG chatbot built with FastAPI, Langchain, SentenceTransformers, ChromaDB, and Ollama.
 

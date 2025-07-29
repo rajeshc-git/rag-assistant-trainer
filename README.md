@@ -1,4 +1,4 @@
-# ABI RAG Assistant 🧠🤖
+#  RAG Assistant 🧠🤖
 
 A lightweight, local-first RAG chatbot built with FastAPI, Langchain, SentenceTransformers, ChromaDB, and Ollama.
 
@@ -42,4 +42,4 @@ Supported: PDF, TXT, DOCX, CSV, XLSX
 Click ⚙️ → "Clear KB" button in the UI.
 
 💡 Credits
-Created by ABI-Health Pvt Ltd
+Created by Rajesh Choudhury

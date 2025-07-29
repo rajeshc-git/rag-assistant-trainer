@@ -8,13 +8,7 @@ A lightweight, local-first RAG chatbot built with FastAPI, Langchain, SentenceTr
 - Ollama model (e.g. Gemma3) used for streaming generation
 - Minimal frontend in HTML + Tailwind
 
-## 🗂️ Project Structure
 
-rag-assistant/
-├── backend/
-│ ├── backend.py # FastAPI server
-├── frontend/
-│ └── frontend.html # Simple chat UI
 
 **Create a folder called uploaded_docs**
 
